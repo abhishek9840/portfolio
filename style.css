@@ -80,7 +80,7 @@ nav ul li a:hover{
 }
 
 #check:checked ~ ul{
-    left: 0%;
+    left: -20%;
    
 }
 
@@ -102,9 +102,13 @@ nav ul li a:hover{
     }
     nav ul li{
         display: block;
-        text-align: center;    
+        text-align: center;
+        padding-right: 5%;    
     }
+    
 }
+
+
 
 .hero-section{
     height: 100vh;
