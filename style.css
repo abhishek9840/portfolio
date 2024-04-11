@@ -515,8 +515,14 @@ background-color:hsla(204, 100%, 67%, 0) ;
     .contact-body img{
         height: 250px;
         width: 300px;
+        margin: 0%;/*change*/
     }
-
+    .contact-body{
+        width: 75%;/*changes */
+    }
+    .study{
+        height: 115vh;/*change in height*/
+    }
     .contact-form{
         margin: 0%;
     }
