@@ -607,16 +607,15 @@ background-color:hsla(204, 100%, 67%, 0) ;
 /* upward arrow addition*/
 .upward{
     position: fixed;
-    /* display: inline-block; */
+    display: inline-block;
     border-radius: 50%;
     background-color: rgb(255, 153, 0);
     font-size: 1.rem;
     padding: 0.5rem;
     z-index: 1;
-    float: right;
-    margin-left: 95vw;
-    margin-top: 90vh;
-    
+    float: right ;   
+    margin-left: 90vw;
+    margin-top: 86vh;
 }
 .upward a{
     text-decoration: none;
