@@ -541,6 +541,8 @@ background-color:hsla(204, 100%, 67%, 0) ;
     background-color: #0c0436;
     color: rgb(223, 219, 219);
     padding-top: 7vh;
+    background-image: url(background\ tech.jpg);
+    background-size: cover;
 }
 .footer-links ul{
     list-style-type: none;
@@ -589,7 +591,7 @@ background-color:hsla(204, 100%, 67%, 0) ;
 }
 
 .footer-end{
-    background-color:#0c0436 ;
+    background-color:#061C21;
     color: #afabab;
     height: 50px;
     font-size: 1.2rem;
@@ -597,8 +599,9 @@ background-color:hsla(204, 100%, 67%, 0) ;
     line-height: 50px;
     border-top: 0.7px solid #afabab ;
     font-weight: 600;
-    
-}
+    /* background-image: url(background\ tech.jpg);
+    background-size: contain; */
+} 
 .footer-end a{
     text-decoration: none;
     color: orange;
